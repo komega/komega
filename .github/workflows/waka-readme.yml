@@ -1,16 +1,18 @@
-name: Waka Readme
+name: Waka README
 
 on:
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update README.md
+    name: Update waka-readme graph
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "chore: update waka-readme graph"
