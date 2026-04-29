@@ -6,4 +6,9 @@
 <a href="https://github.com/komega/komega/blob/master/LICENSE"><img src="https://img.shields.io/github/license/komega/komega" alt="License Badge"/></a>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
