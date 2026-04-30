@@ -1,9 +1,13 @@
-<a href="https://github.com/komega/komega/stargazers"><img src="https://img.shields.io/github/stars/komega/komega" alt="Stars Badge"/></a>
-<a href="https://github.com/komega/komega/network/members"><img src="https://img.shields.io/github/forks/komega/komega" alt="Forks Badge"/></a>
-<a href="https://github.com/komega/komega/pulls"><img src="https://img.shields.io/github/issues-pr/komega/komega" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/komega/komega/issues"><img src="https://img.shields.io/github/issues/komega/komega" alt="Issues Badge"/></a>
-<a href="https://github.com/komega/komega/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/komega/komega"></a>
-<a href="https://github.com/komega/komega/blob/master/LICENSE"><img src="https://img.shields.io/github/license/komega/komega" alt="License Badge"/></a>
+<div align="center">
+    <img src="assets/about_me.gif" alt="about me" />
+    <br />
+    <img src="https://readme-typing-svg.demolab.com?center=true&lines=I+am+Khoa+Omega;Welcome+to+my+profile!" alt="typing svg" />
+    <br />
+    <img src="https://img.shields.io/github/followers/komega" alt="followers badge" />
+    <img src="https://img.shields.io/github/stars/komega" alt="stars badge" />
+</div>
+
+<br />
 
 <!--START_SECTION:waka-->
 
