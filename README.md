@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     4 hrs 2 mins          ████████████████████████░   96.41 %
-JSON       5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Markdown   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-TOML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
